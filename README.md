@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I am Gunjan Batra
+
+## I'm Developer | Programmer | Learner
+
+🔭 I’m currently studying Masters in Computer Applications at Vellore Institute of Technology, Bhopal<br/>
+🌱 I’m currently exploring new things and growing everyday<br/>
+💬 You can email me at gunjan.batra0109@gmail.com. I'll try to respond as soon as possible.<br/>
+⚡ I love Maths | Journaling | Upcycling | Dance
 
 <!--
 **GunjanBatra01/GunjanBatra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
